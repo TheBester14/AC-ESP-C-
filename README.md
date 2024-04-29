@@ -8,5 +8,6 @@
 
 *****To Do****
 - Auto Aim
-- IMGUI interface
 - Write names of the entities above their boxes
+- No recoil
+- IMGUI interface
